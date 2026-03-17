@@ -1,0 +1,52 @@
+🚀 AI JOB FINDER AGENT - QUICK START
+=====================================
+
+STEP 1: Edit Your Profile
+--------------------------
+Open my_profile.json and update with YOUR information:
+- Your actual skills
+- Years of experience
+- Desired job role
+- Location preference
+- Remote work preference
+
+STEP 2: Test It
+---------------
+Run this command:
+    python3 job-scraper-smart.py
+
+You should see real job postings analyzed by Claude AI!
+
+STEP 3: Schedule Daily Runs (8 AM)
+-----------------------------------
+Run these commands:
+
+    chmod +x schedule_daily.sh
+    crontab -e
+
+Then add this line (replace /full/path with your actual path):
+    0 8 * * * cd /full/path/to/MRUDHU-AI-INITIATIVES && ./schedule_daily.sh >> job_finder.log 2>&1
+
+Save and exit (Esc, then :wq, then Enter)
+
+STEP 4: Check It Works
+-----------------------
+Tomorrow morning at 8 AM, check:
+    cat daily_jobs.json
+
+Or run manually anytime:
+    python3 job-scraper-smart.py
+
+NEED HELP?
+----------
+Read SETUP_GUIDE.md for detailed instructions
+
+DAILY ROUTINE:
+--------------
+1. Check the morning report (daily_jobs.json)
+2. Click the search links
+3. Apply to 3-5 jobs
+4. Track your applications
+5. Follow up after 1 week
+
+Good luck! 🎯

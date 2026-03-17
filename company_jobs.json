@@ -1,0 +1,477 @@
+{
+  "date": "2026-03-12",
+  "total_jobs": 62,
+  "matched_jobs": [
+    {
+      "title": "Connect Engineering Apprenticeship",
+      "company": "Airbnb",
+      "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate's 1 year of experience and technical skills in Java, TypeScript, Spring Boot, and JUnit align well with an engineering apprenticeship program, which is designed for early-career developers to grow their skills while contributing to real projects."
+    },
+    {
+      "title": "Connect Engineering Apprenticeship",
+      "company": "Airbnb",
+      "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant programming experience with Java, TypeScript, and testing frameworks that align well with software engineering fundamentals expected for an apprenticeship program at a tech company like Airbnb."
+    },
+    {
+      "title": "Connect Engineering Apprenticeship",
+      "company": "Airbnb",
+      "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant technical skills (Java, Typescript, Spring Boot, JUnit) and limited experience that aligns well with an apprenticeship program designed for early-career developers."
+    },
+    {
+      "title": "Software development",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/collections/software",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant technical skills (Java, TypeScript, Spring Boot, JUnit) that align well with Atlassian's technology stack for software development roles."
+    },
+    {
+      "title": "Software",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/collections/software",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant technical skills (Java, TypeScript, Spring Boot, JUnit) that align well with Atlassian's software development stack and testing practices."
+    }
+  ],
+  "all_jobs": [
+    {
+      "title": "Instrumentation System Design Engineer",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200651230-0836/instrumentation-system-design-engineer?team=HRDWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate's software development skills (Java, TypeScript, Spring Boot) don't align with an Instrumentation System Design Engineer role at Apple, which typically requires hardware engineering expertise in sensors, measurement systems, and electronic instrumentation design."
+    },
+    {
+      "title": "Engineering Project Manager (SAP), IS&T Enterprise Systems",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200649928-3401/engineering-project-manager-sap-is-t-enterprise-systems?team=SFTWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the required experience level and project management skills for a senior Engineering Project Manager role at Apple, having only 1 year of experience with purely technical programming skills rather than the SAP expertise and leadership capabilities needed for enterprise systems management."
+    },
+    {
+      "title": "Embedded Software Engineer",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200651221-0836/embedded-software-engineer?team=HRDWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate's skills in Java, Typescript, and web frameworks like Spring Boot don't align with embedded software engineering, which typically requires low-level programming languages like C/C++ and hardware-specific knowledge."
+    },
+    {
+      "title": "Software Engineer (Quality), Retail and Marcom Engineering",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200651350-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for a Software Engineer position at Apple, a top-tier tech company that typically requires several years of experience and more specialized skills for their engineering roles."
+    },
+    {
+      "title": "Software Engineer (Quality), Retail and Marcom Engineering",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200651348-3956/software-engineer-quality-retail-and-marcom-engineering?team=SFTWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for a Software Engineer position at Apple, a top-tier tech company that typically requires several years of experience and more specialized skills for their engineering roles."
+    },
+    {
+      "title": "Senior End to End Performance Engineer",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200651561-3337/senior-end-to-end-performance-engineer?team=SFTWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is insufficient for a senior-level position at Apple, and their skills are primarily in backend development rather than performance engineering expertise."
+    },
+    {
+      "title": "System Product Design Engineer - iPhone",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200651554-0836/system-product-design-engineer-iphone?team=HRDWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only software development skills (Java, TypeScript, etc.) with minimal experience, while a System Product Design Engineer role at Apple for iPhone would require hardware design, systems engineering, and product development experience in consumer electronics."
+    },
+    {
+      "title": "Engineering Project Manager, Build and Release",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200651540-0157/engineering-project-manager-build-and-release?team=SFTWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the necessary experience (only 1 year) and project management skills for a senior Engineering Project Manager role at Apple, and their technical skills are focused on development rather than build and release management."
+    },
+    {
+      "title": "Junior UI Compositing Engineer",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200636915-0836/junior-ui-compositing-engineer?team=SFTWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate's skills (Java, Typescript, Spring, Boot, JUnit) are primarily backend/full-stack web development technologies, which don't align with UI compositing engineering that typically requires graphics programming, animation frameworks, and visual effects expertise."
+    },
+    {
+      "title": "Engineering Program Manager, Customer Systems",
+      "company": "Apple",
+      "url": "https://jobs.apple.com/en-us/details/200640419-0157/engineering-program-manager-customer-systems?team=SFTWR",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the necessary experience level and management skills for a senior Engineering Program Manager role at Apple, having only 1 year of experience with purely technical coding skills rather than program management expertise."
+    },
+    {
+      "title": "Genuine software",
+      "company": "Adobe",
+      "url": "https://www.adobe.com/genuine.html",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for a software engineering role at Adobe, a major tech company that typically requires more senior developers with deeper experience and a broader skill set."
+    },
+    {
+      "title": "Adobe Developer",
+      "company": "Adobe",
+      "url": "https://developer.adobe.com/",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the core Adobe-specific skills and technologies (like Adobe Creative Suite APIs, ActionScript, Flash, or Adobe Experience Platform) that would typically be required for an Adobe Developer role at Adobe, and has only 1 year of experience which may be insufficient for a specialized developer position at a major tech company."
+    },
+    {
+      "title": "Genuine software",
+      "company": "Adobe",
+      "url": "https://www.adobe.com/genuine.html",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe job description \"Genuine software at Adobe\" is too vague to properly evaluate, but typically Adobe software roles require more than 1 year of experience and the candidate's skills don't align well with Adobe's primary technologies like JavaScript frameworks, C++, or creative software development."
+    },
+    {
+      "title": "Adobe Developer",
+      "company": "Adobe",
+      "url": "https://developer.adobe.com/",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate's skills (Java, TypeScript, Spring Boot, JUnit) don't align with typical Adobe developer requirements, which usually focus on Adobe's proprietary technologies like Adobe Experience Manager, Creative SDK, or Adobe Analytics, and 1 year of experience may be insufficient for a role at a major tech company like Adobe."
+    },
+    {
+      "title": "AI Solutions Developer, Finance",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/ai-solutions-developer-finance/7646513",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the necessary AI/machine learning skills and finance domain experience required for an AI Solutions Developer role in finance, having only general software development skills in Java and TypeScript."
+    },
+    {
+      "title": "AI Solutions Developer, Finance",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/ai-solutions-developer-finance/7646513",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks sufficient experience (only 1 year) and doesn't have the AI/machine learning skills typically required for an AI Solutions Developer role in finance."
+    },
+    {
+      "title": "AI/ML Engineering Manager, Payment Intelligence",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/ai-ml-engineering-manager-payment-intelligence/7286376",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks both management experience and AI/ML technical skills required for an engineering manager role in payment intelligence."
+    },
+    {
+      "title": "Android Engineer, Terminal",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/android-engineer-terminal/7543559",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks Android-specific development experience and skills (such as Kotlin, Android SDK, or mobile development), having only backend-focused technologies like Spring Boot."
+    },
+    {
+      "title": "Android Engineer, Terminal",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/android-engineer-terminal/7543559",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks Android-specific development experience and skills (such as Kotlin, Android SDK, mobile development frameworks), having only backend Java/Spring experience which doesn't translate well to Android mobile development."
+    },
+    {
+      "title": "Android Engineer, Terminal Developer Productivity",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/android-engineer-terminal-developer-productivity/7550154",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks Android development experience and mobile-specific skills (like Kotlin, Android SDK), having only backend Java experience which doesn't translate well to Android terminal/productivity tooling development."
+    },
+    {
+      "title": "Android Engineer, Terminal Developer Productivity",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/android-engineer-terminal-developer-productivity/7550154",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks Android development experience and mobile-specific skills (like Kotlin, Android SDK), having only general Java/backend experience that doesn't align with Android engineering requirements."
+    },
+    {
+      "title": "Android Engineer, Terminal Developer Productivity",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/android-engineer-terminal-developer-productivity/7550154",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks Android-specific skills (like Kotlin, Android SDK, mobile development frameworks), while their current skillset is more aligned with backend web development."
+    },
+    {
+      "title": "Android Engineer, Terminal OS Platform",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/android-engineer-terminal-os-platform/7557403",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks Android-specific development experience and skills (such as Kotlin, Android SDK, or mobile development), which are essential for an Android Engineer position at the platform level."
+    },
+    {
+      "title": "Android Engineer, Terminal OS Platform",
+      "company": "Stripe",
+      "url": "https://stripe.com/jobs/listing/android-engineer-terminal-os-platform/7557403",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks Android development experience and essential Android skills (Kotlin, Android SDK, mobile development) needed for an Android Engineer position, despite having some relevant Java programming background."
+    },
+    {
+      "title": "Connect Engineering Apprenticeship",
+      "company": "Airbnb",
+      "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate's 1 year of experience and technical skills in Java, TypeScript, Spring Boot, and JUnit align well with an engineering apprenticeship program, which is designed for early-career developers to grow their skills while contributing to real projects."
+    },
+    {
+      "title": "Connect Engineering Apprenticeship",
+      "company": "Airbnb",
+      "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant programming experience with Java, TypeScript, and testing frameworks that align well with software engineering fundamentals expected for an apprenticeship program at a tech company like Airbnb."
+    },
+    {
+      "title": "Connect Engineering Apprenticeship",
+      "company": "Airbnb",
+      "url": "https://careers.airbnb.com/connect-engineering-apprenticeship/",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant technical skills (Java, Typescript, Spring Boot, JUnit) and limited experience that aligns well with an apprenticeship program designed for early-career developers."
+    },
+    {
+      "title": "Engineering",
+      "company": "Uber",
+      "url": "https://jobs.uber.com/en/teams/engineering/",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience, which is typically insufficient for an engineering role at Uber, a top-tier tech company that usually requires 2+ years of experience and more advanced technical skills."
+    },
+    {
+      "title": "Engineering",
+      "company": "Uber",
+      "url": "https://jobs.uber.com/en/teams/engineering/",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience, which is typically insufficient for an engineering role at Uber, a major tech company that usually requires more senior engineers with several years of experience and exposure to large-scale distributed systems."
+    },
+    {
+      "title": "Developers",
+      "company": "Lyft",
+      "url": "https://www.lyft.com/developers",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for a developer role at Lyft, a major tech company that typically requires more senior developers with several years of experience and broader technical skills."
+    },
+    {
+      "title": "Coinbase Developer Platform\udb80\udd56",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/developer-platform",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for a developer platform role at a major company like Coinbase, which typically requires more senior developers with deeper experience in distributed systems, APIs, and platform architecture."
+    },
+    {
+      "title": "Staff Analytics Engineer",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7060033",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the required experience level (1 year vs typical 4-6 years for staff level) and doesn't have analytics/data engineering skills like SQL, Python, or data visualization tools that are essential for an Analytics Engineer role."
+    },
+    {
+      "title": "Senior Analytics Engineer",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7532597",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience for a senior-level position and their skills are focused on software development (Java, TypeScript, Spring Boot) rather than analytics engineering which typically requires data engineering, SQL, and analytics tools expertise."
+    },
+    {
+      "title": "Senior Software Engineer,  Data Platform",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7656859",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nA Senior Software Engineer position typically requires 5+ years of experience, but this candidate only has 1 year of experience."
+    },
+    {
+      "title": "Analytics Engineer",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7701638",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience with backend development skills (Java, Spring Boot) but lacks the data analytics, SQL, Python, and business intelligence tools typically required for an Analytics Engineer role at a major fintech company like Coinbase."
+    },
+    {
+      "title": "Senior Data Scientist - Developer",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7583653",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and primarily backend development skills (Java, Spring Boot), which doesn't match the senior-level data science requirements that would typically need statistical analysis, machine learning, and data manipulation expertise with tools like Python, R, or SQL."
+    },
+    {
+      "title": "Senior Software Engineer, Backend (Platform - Onboarding)",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7586036",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience, which is insufficient for a Senior Software Engineer position that typically requires 5+ years of experience and senior-level expertise."
+    },
+    {
+      "title": "Senior Software Engineer, Backend - (Consumer Foundations)",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7595047",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience, which is insufficient for a Senior Software Engineer position that typically requires 5+ years of experience and advanced technical leadership skills."
+    },
+    {
+      "title": "Senior Software Engineer, Fullstack (AI Advisor)",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7604153",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience, which is insufficient for a Senior Software Engineer position that typically requires 5+ years of experience and advanced technical leadership skills."
+    },
+    {
+      "title": "Staff Software Engineer",
+      "company": "Coinbase",
+      "url": "https://www.coinbase.com/careers/positions/7606771",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nA Staff Software Engineer position typically requires 7-10+ years of experience and senior-level technical leadership skills, while this candidate has only 1 year of experience."
+    },
+    {
+      "title": "Data EngineeringETL and orchestration for batch and streaming data",
+      "company": "Databricks",
+      "url": "https://www.databricks.com/product/data-engineering",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate's skills (Java, Typescript, Spring Boot, JUnit) are primarily web development focused and don't align with the data engineering requirements for ETL, orchestration, and Databricks expertise."
+    },
+    {
+      "title": "Engineering",
+      "company": "Databricks",
+      "url": "https://www.databricks.com/company/careers/engineering-at-databricks",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks the big data/distributed systems skills (like Spark, Scala, Python) that are typically essential for engineering roles at Databricks, a company focused on data analytics and machine learning platforms."
+    },
+    {
+      "title": "Engineering",
+      "company": "Databricks",
+      "url": "https://www.databricks.com/company/careers/engineering-at-databricks?itm_source=www&itm_category=home&itm_page=home&itm_offer=engineering-at-databricks",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks the distributed systems, big data, and cloud technologies (like Spark, Scala, Python) that are typically essential for engineering roles at Databricks, a data and AI platform company."
+    },
+    {
+      "title": "Field Engineering",
+      "company": "Databricks",
+      "url": "https://www.databricks.com/company/careers/open-positions?department=field%20engineering&itm_source=www&itm_category=home&itm_page=home&itm_offer=open-positions",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience with primarily backend development skills (Java, Spring Boot), but Field Engineering at Databricks typically requires several years of experience with data engineering, analytics platforms, and customer-facing technical roles."
+    },
+    {
+      "title": "Data Engineering",
+      "company": "Databricks",
+      "url": "https://www.databricks.com/product/data-engineering",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience with primarily web development skills (Java/Spring for backend, TypeScript for frontend), but lacks the essential data engineering skills like SQL, Python, distributed systems, and big data technologies that Databricks would require."
+    },
+    {
+      "title": "Data Engineering",
+      "company": "Databricks",
+      "url": "https://www.databricks.com/product/data-engineering",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the core data engineering skills (SQL, Python, data pipelines, ETL) and distributed systems experience typically required for a Data Engineering role at Databricks, having only 1 year of web development experience with Java/TypeScript."
+    },
+    {
+      "title": "Apache Software Foundation",
+      "company": "Databricks",
+      "url": "https://www.apache.org/",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and primarily frontend/basic backend skills, which is insufficient for a senior-level position at a top-tier organization like Databricks working with Apache Software Foundation projects that typically require deep distributed systems expertise and several years of experience."
+    },
+    {
+      "title": "Ship high-quality software fastRovo Dev \u2022 DX \u2022 Pipelines \u2022 Bitbucket \u2022 Compass",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/collections/software",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and basic technical skills, which may not be sufficient for a role focused on shipping high-quality software with advanced developer experience tools and pipelines at a major company like Atlassian."
+    },
+    {
+      "title": "Rovo DevAgentic AI for developers",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/software/rovo-dev",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for a DevAgentic AI role at Atlassian, which would typically require deeper expertise in AI/ML technologies and more senior-level experience that isn't reflected in their current skillset."
+    },
+    {
+      "title": "CompassSoftware catalog for teams",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/software/compass",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for a role at Atlassian, a major tech company that typically requires more senior developers with deeper experience in their tech stack and software development practices."
+    },
+    {
+      "title": "Ship high-quality software fastRovo Dev \u2022 DX \u2022 Pipelines \u2022 Bitbucket \u2022 Compass",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/collections/software",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and basic development skills, but lacks the DevOps, pipeline management, and toolchain expertise typically required for a role focused on shipping software through complex development operations at a company like Atlassian."
+    },
+    {
+      "title": "Software development",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/collections/software",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant technical skills (Java, TypeScript, Spring Boot, JUnit) that align well with Atlassian's technology stack for software development roles."
+    },
+    {
+      "title": "Software",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/collections/software",
+      "platform": "Company Website",
+      "match_reason": "YES\n\nThe candidate has relevant technical skills (Java, TypeScript, Spring Boot, JUnit) that align well with Atlassian's software development stack and testing practices."
+    },
+    {
+      "title": "Developer support",
+      "company": "Atlassian",
+      "url": "https://developer.atlassian.com/",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate lacks the customer support, communication, and troubleshooting skills typically required for a developer support role, as their background appears to be purely technical development without demonstrated experience helping external developers or customers."
+    },
+    {
+      "title": "Engineering",
+      "company": "Atlassian",
+      "url": "https://www.atlassian.com/company/careers/engineering",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience, which is typically insufficient for an engineering role at Atlassian, a major tech company that usually requires more senior developers with several years of experience."
+    },
+    {
+      "title": "Engineering",
+      "company": "Slack",
+      "url": "https://slack.com/solutions/engineering",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is typically insufficient for an engineering role at a major tech company like Slack, which usually requires more senior developers with deeper experience and broader technical skills."
+    },
+    {
+      "title": "Developers",
+      "company": "Slack",
+      "url": "https://api.slack.com",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks key skills typically required for Slack development such as distributed systems, scalability expertise, and modern web technologies like React or Node.js."
+    },
+    {
+      "title": "Engineering",
+      "company": "Slack",
+      "url": "https://slack.com/solutions/engineering",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience which is likely insufficient for an engineering role at Slack, a major tech company that typically requires more senior developers with deeper experience and broader technical skills."
+    },
+    {
+      "title": "Developers",
+      "company": "Slack",
+      "url": "https://api.slack.com",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks relevant skills for Slack's tech stack, which typically requires JavaScript/Node.js, React, and distributed systems experience rather than Java/Spring Boot."
+    },
+    {
+      "title": "Engineering",
+      "company": "Slack",
+      "url": "https://slack.com/solutions/engineering",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks the senior-level expertise and broader technology stack (particularly distributed systems, scalability, and real-time messaging technologies) typically required for engineering roles at a major tech company like Slack."
+    },
+    {
+      "title": "Developers",
+      "company": "Slack",
+      "url": "https://api.slack.com/?_gl=1*618lju*_gcl_au*MTg5ODY1ODY3LjE3MDE3MTQ3MTc.",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of experience and lacks key skills that Slack typically requires for developers, such as distributed systems experience, cloud technologies, and modern web frameworks beyond basic Java/Spring knowledge."
+    },
+    {
+      "title": "Engineering Blog",
+      "company": "Slack",
+      "url": "https://slack.engineering/",
+      "platform": "Company Website",
+      "match_reason": "NO\n\nThe candidate has only 1 year of technical experience and primarily backend development skills, which may not provide sufficient depth of engineering knowledge and writing experience typically expected for creating content for an established engineering blog at a major tech company like Slack."
+    }
+  ]
+}

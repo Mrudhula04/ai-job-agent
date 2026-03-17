@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Google",
+    "url": "https://www.google.com/about/careers/applications/jobs/results?location=United%20States&target_level=EARLY&degree=MASTERS&employment_type=PART_TIME&employment_type=FULL_TIME",
+    "type": "FAANG"
+  },
+  {
+    "name": "Amazon",
+    "url": "https://www.amazon.jobs/en/search?offset=0&result_limit=10&sort=recent&category%5B%5D=software-development&country%5B%5D=USA&category_type=Corporate&distanceType=Mi&radius=24km&industry_experience=one_to_three_years&is_manager%5B%5D=0&latitude=&longitude=&loc_group_id=&loc_query=&base_query=&city=&country=&region=&county=&query_options=&",
+    "type": "FAANG"
+  },
+  {
+    "name": "Microsoft",
+    "url": "https://apply.careers.microsoft.com/careers?start=0&location=United+States&pid=1970393556649491&sort_by=distance&filter_include_remote=1&filter_profession=software+engineering&filter_seniority=Entry",
+    "type": "FAANG"
+  },
+  {
+    "name": "Apple",
+    "url": "https://jobs.apple.com/en-us/search?location=united-states-USA",
+    "type": "FAANG"
+  },
+  {
+    "name": "Meta",
+    "url": "https://www.metacareers.com/jobsearch?teams[0]=Software%20Engineering&offices[0]=Bellevue%2C%20WA&offices[1]=Menlo%20Park%2C%20CA&roles[0]=Full%20time%20employment&roles[1]=Short%20term%20employment",
+    "type": "FAANG"
+  },
+  {
+    "name": "Netflix",
+    "url": "https://explore.jobs.netflix.net/careers?location=Los%20Angeles%2C%20CA%2C%20United%20States&pid=790314145712&domain=netflix.com&sort_by=relevance&triggerGoButton=false",
+    "type": "FAANG"
+  }
+  

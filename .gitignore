@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+.env
+*.pyc
+.DS_Store
+agent_state.json
+daily_jobs.json
+applications_tracker.json
+job_results.html
