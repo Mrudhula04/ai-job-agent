@@ -28,5 +28,1200 @@
     "name": "Netflix",
     "url": "https://explore.jobs.netflix.net/careers?location=Los%20Angeles%2C%20CA%2C%20United%20States&pid=790314145712&domain=netflix.com&sort_by=relevance&triggerGoButton=false",
     "type": "FAANG"
+  },
+  {
+    "name": "Salesforce",
+    "url": "https://salesforce.wd1.myworkdayjobs.com/External_Career_Site",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Oracle",
+    "url": "https://careers.oracle.com/jobs/",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Adobe",
+    "url": "https://careers.adobe.com/us/en/search-results",
+    "type": "Enterprise"
+  },
+  {
+    "name": "IBM",
+    "url": "https://www.ibm.com/careers/search",
+    "type": "Enterprise"
+  },
+  {
+    "name": "SAP",
+    "url": "https://jobs.sap.com/search/",
+    "type": "Enterprise"
+  },
+  {
+    "name": "ServiceNow",
+    "url": "https://careers.servicenow.com/careers/jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "VMware",
+    "url": "https://careers.vmware.com/main/jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Dell",
+    "url": "https://jobs.dell.com/search-jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "HP",
+    "url": "https://apply.hp.com/careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "HPE",
+    "url": "https://careers.hpe.com/jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Workday",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Intuit",
+    "url": "https://www.intuit.com/careers/jobs/",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Autodesk",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Splunk",
+    "url": "https://www.splunk.com/en_us/careers/jobs.html",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com/company/careers/all-jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Twilio",
+    "url": "https://www.twilio.com/company/jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Slack",
+    "url": "https://slack.com/careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Zoom",
+    "url": "https://careers.zoom.us/jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Dropbox",
+    "url": "https://www.dropbox.com/jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Box",
+    "url": "https://www.box.com/careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "HubSpot",
+    "url": "https://www.hubspot.com/careers/jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Zendesk",
+    "url": "https://www.zendesk.com/jobs/",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Intercom",
+    "url": "https://www.intercom.com/careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Monday.com",
+    "url": "https://monday.com/careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "NVIDIA",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite",
+    "type": "Enterprise"
+  },
+  {
+    "name": "AMD",
+    "url": "https://careers.amd.com/careers-home/jobs?location=United%20States&woe=12&regionCode=US&stretchUnit=MILES&stretch=10&page=1&tags1=Yes&categories=Engineering",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Intel",
+    "url": "https://jobs.intel.com/en/search-jobs",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Qualcomm",
+    "url": "https://careers.qualcomm.com/careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Broadcom",
+    "url": "https://broadcom.wd1.myworkdayjobs.com/External_Career",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Micron",
+    "url": "https://micron.eightfold.ai/careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Texas Instruments",
+    "url": "https://careers.ti.com/",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Analog Devices",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Synopsys",
+    "url": "https://sjobs.brassring.com/TGnewUI/Search/Home/Home?partnerid=25235&siteid=5359",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Cadence",
+    "url": "https://cadence.wd1.myworkdayjobs.com/External_Careers",
+    "type": "Enterprise"
+  },
+  {
+    "name": "Palo Alto Networks",
+    "url": "https://jobs.paloaltonetworks.com/en/jobs/",
+    "type": "Security"
+  },
+  {
+    "name": "Fortinet",
+    "url": "https://www.fortinet.com/careers",
+    "type": "Security"
+  },
+  {
+    "name": "CrowdStrike",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers",
+    "type": "Security"
+  },
+  {
+    "name": "Okta",
+    "url": "https://www.okta.com/company/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Zscaler",
+    "url": "https://www.zscaler.com/careers",
+    "type": "Security"
+  },
+  {
+    "name": "Check Point",
+    "url": "https://www.checkpoint.com/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Cloudflare",
+    "url": "https://www.cloudflare.com/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Akamai",
+    "url": "https://www.akamai.com/careers",
+    "type": "Security"
+  },
+  {
+    "name": "Rapid7",
+    "url": "https://www.rapid7.com/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Qualys",
+    "url": "https://www.qualys.com/company/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Tenable",
+    "url": "https://www.tenable.com/careers",
+    "type": "Security"
+  },
+  {
+    "name": "SentinelOne",
+    "url": "https://www.sentinelone.com/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Tanium",
+    "url": "https://www.tanium.com/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Varonis",
+    "url": "https://www.varonis.com/company/careers/",
+    "type": "Security"
+  },
+  {
+    "name": "Proofpoint",
+    "url": "https://www.proofpoint.com/us/careers",
+    "type": "Security"
+  },
+  {
+    "name": "Stripe",
+    "url": "https://stripe.com/jobs/search",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Airbnb",
+    "url": "https://careers.airbnb.com/positions/?_departments=engineering&_where_you_work=united-states%2Csan-francisco-united-states%2Cnevada-united-states%2Carizona-united-states-colorado-united-states-idaho%2Ccalifornia-united-states-washington-united-states-%2Ccolorado-united-states%2Cdc-united-states%2Cflorida-united-states-georgia-united-states-alabam%2Cmiami-united-states-san-francisco-united-states%2Cnorth-carolina-united-states-south-carolina-united%2Cremote-united-states-united-states%2Cvirginia-united-states-west-virginia-united-states/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Uber",
+    "url": "https://www.uber.com/us/en/careers/list/?department=Engineering&location=USA-California-San%20Francisco&location=USA-California-Sunnyvale&location=USA-California-Los%20Angeles&location=USA-New%20York-New%20York&location=USA-Illinois-Chicago&location=USA-Washington-Seattle&location=USA-Arizona-Phoenix&location=USA-Florida-Miami&location=USA-Texas-Dallas&location=USA-Massachusetts-Boston&location=USA-District%20of%20Columbia-Washington&location=USA-Georgia-Atlanta&location=USA-Tennessee-Nashville&location=USA-Colorado-Denver",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Lyft",
+    "url": "https://www.lyft.com/careers#openings?category=software%2520engineering",
+    "type": "Unicorn"
+  },
+  {
+    "name": "DoorDash",
+    "url": "https://careersatdoordash.com/job-search/?keyword=&location=&function=Software%20Engineering%7C&spage=1",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Coinbase",
+    "url": "https://www.coinbase.com/careers/positions",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Robinhood",
+    "url": "https://robinhood.com/us/en/careers/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Instacart",
+    "url": "https://instacart.careers/current-openings/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "SpaceX",
+    "url": "https://www.spacex.com/careers/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Tesla",
+    "url": "https://www.tesla.com/careers/search/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Rivian",
+    "url": "https://rivian.com/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Palantir",
+    "url": "https://www.palantir.com/careers/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Figma",
+    "url": "https://www.figma.com/careers/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Notion",
+    "url": "https://www.notion.so/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Canva",
+    "url": "https://www.canva.com/careers/jobs/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Discord",
+    "url": "https://discord.com/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Airtable",
+    "url": "https://www.airtable.com/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Asana",
+    "url": "https://asana.com/jobs",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Databricks",
+    "url": "https://www.databricks.com/company/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Snowflake",
+    "url": "https://careers.snowflake.com/us/en/search-results",
+    "type": "Unicorn"
+  },
+  {
+    "name": "MongoDB",
+    "url": "https://www.mongodb.com/careers/jobs",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Elastic",
+    "url": "https://www.elastic.co/about/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "HashiCorp",
+    "url": "https://www.hashicorp.com/jobs",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Datadog",
+    "url": "https://www.datadoghq.com/careers/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "New Relic",
+    "url": "https://newrelic.com/about/culture",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Samsara",
+    "url": "https://www.samsara.com/company/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Grammarly",
+    "url": "https://www.grammarly.com/jobs",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Flexport",
+    "url": "https://www.flexport.com/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Aurora",
+    "url": "https://aurora.tech/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Tempus",
+    "url": "https://www.tempus.com/careers/",
+    "type": "Healthtech"
+  },
+  {
+    "name": "Oscar Health",
+    "url": "https://www.hioscar.com/careers",
+    "type": "Healthtech"
+  },
+  {
+    "name": "Devoted Health",
+    "url": "https://www.devoted.com/careers",
+    "type": "Healthtech"
+  },
+  {
+    "name": "Flatiron Health",
+    "url": "https://flatiron.com/careers/",
+    "type": "Healthtech"
+  },
+  {
+    "name": "Duolingo",
+    "url": "https://www.duolingo.com/careers",
+    "type": "EdTech"
+  },
+  {
+    "name": "Coursera",
+    "url": "https://about.coursera.org/careers/",
+    "type": "EdTech"
+  },
+  {
+    "name": "Affirm",
+    "url": "https://boards.greenhouse.io/affirm",
+    "type": "Fintech"
+  },
+  {
+    "name": "Brex",
+    "url": "https://www.brex.com/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Carta",
+    "url": "https://carta.com/careers/",
+    "type": "Fintech"
+  },
+  {
+    "name": "Gusto",
+    "url": "https://gusto.com/about/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Rippling",
+    "url": "https://www.rippling.com/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Ramp",
+    "url": "https://ramp.com/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Plaid",
+    "url": "https://plaid.com/careers/",
+    "type": "Fintech"
+  },
+  {
+    "name": "Chime",
+    "url": "https://www.chime.com/careers/",
+    "type": "Fintech"
+  },
+  {
+    "name": "SoFi",
+    "url": "https://www.sofi.com/careers/",
+    "type": "Fintech"
+  },
+  {
+    "name": "Marqeta",
+    "url": "https://www.marqeta.com/company/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Square",
+    "url": "https://careers.squareup.com/us/en/jobs",
+    "type": "Fintech"
+  },
+  {
+    "name": "PayPal",
+    "url": "https://paypal.eightfold.ai/careers?domain=paypal.com&start=0&pid=274918238933&sort_by=timestamp",
+    "type": "Fintech"
+  },
+  {
+    "name": "Toast",
+    "url": "https://pos.toasttab.com/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Bill.com",
+    "url": "https://www.bill.com/about-us/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Blend",
+    "url": "https://blend.com/company/careers/",
+    "type": "Fintech"
+  },
+  {
+    "name": "LendingClub",
+    "url": "https://www.lendingclub.com/company/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Upstart",
+    "url": "https://www.upstart.com/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Betterment",
+    "url": "https://www.betterment.com/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Wealthfront",
+    "url": "https://www.wealthfront.com/careers",
+    "type": "Fintech"
+  },
+  {
+    "name": "Acorns",
+    "url": "https://www.acorns.com/careers/",
+    "type": "Fintech"
+  },
+  {
+    "name": "Current",
+    "url": "https://current.com/careers/",
+    "type": "Fintech"
+  },
+  {
+    "name": "DigitalOcean",
+    "url": "https://www.digitalocean.com/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "Vercel",
+    "url": "https://vercel.com/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "Netlify",
+    "url": "https://www.netlify.com/careers/",
+    "type": "Cloud"
+  },
+  {
+    "name": "Supabase",
+    "url": "https://supabase.com/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "PlanetScale",
+    "url": "https://planetscale.com/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "Cockroach Labs",
+    "url": "https://www.cockroachlabs.com/careers/",
+    "type": "Cloud"
+  },
+  {
+    "name": "Redis",
+    "url": "https://redis.com/company/careers/",
+    "type": "Cloud"
+  },
+  {
+    "name": "Confluent",
+    "url": "https://www.confluent.io/careers/",
+    "type": "Cloud"
+  },
+  {
+    "name": "Grafana Labs",
+    "url": "https://grafana.com/about/careers/",
+    "type": "Cloud"
+  },
+  {
+    "name": "Dynatrace",
+    "url": "https://www.dynatrace.com/company/careers/",
+    "type": "Cloud"
+  },
+  {
+    "name": "Fastly",
+    "url": "https://www.fastly.com/about/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "Render",
+    "url": "https://render.com/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "CoreWeave",
+    "url": "https://www.coreweave.com/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "Equinix",
+    "url": "https://careers.equinix.com/",
+    "type": "Cloud"
+  },
+  {
+    "name": "Rackspace",
+    "url": "https://www.rackspace.com/about/careers",
+    "type": "Cloud"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/about/careers",
+    "type": "DevTools"
+  },
+  {
+    "name": "GitLab",
+    "url": "https://about.gitlab.com/jobs/",
+    "type": "DevTools"
+  },
+  {
+    "name": "Docker",
+    "url": "https://www.docker.com/career-openings/",
+    "type": "DevTools"
+  },
+  {
+    "name": "Postman",
+    "url": "https://www.postman.com/company/careers/",
+    "type": "DevTools"
+  },
+  {
+    "name": "Sentry",
+    "url": "https://sentry.io/careers/",
+    "type": "DevTools"
+  },
+  {
+    "name": "LaunchDarkly",
+    "url": "https://launchdarkly.com/careers/",
+    "type": "DevTools"
+  },
+  {
+    "name": "Amplitude",
+    "url": "https://amplitude.com/careers",
+    "type": "DevTools"
+  },
+  {
+    "name": "Fivetran",
+    "url": "https://www.fivetran.com/careers",
+    "type": "DevTools"
+  },
+  {
+    "name": "dbt Labs",
+    "url": "https://www.getdbt.com/careers/",
+    "type": "DevTools"
+  },
+  {
+    "name": "Airbyte",
+    "url": "https://airbyte.com/careers",
+    "type": "DevTools"
+  },
+  {
+    "name": "CircleCI",
+    "url": "https://circleci.com/careers/",
+    "type": "DevTools"
+  },
+  {
+    "name": "JFrog",
+    "url": "https://jfrog.com/careers/",
+    "type": "DevTools"
+  },
+  {
+    "name": "Snyk",
+    "url": "https://snyk.io/careers/",
+    "type": "DevTools"
+  },
+  {
+    "name": "PagerDuty",
+    "url": "https://careers.pagerduty.com/",
+    "type": "DevTools"
+  },
+  {
+    "name": "Harness",
+    "url": "https://www.harness.io/company/careers",
+    "type": "DevTools"
+  },
+  {
+    "name": "OpenAI",
+    "url": "https://openai.com/careers/",
+    "type": "Startup"
+  },
+  {
+    "name": "Anthropic",
+    "url": "https://www.anthropic.com/careers",
+    "type": "Startup"
+  },
+  {
+    "name": "Scale AI",
+    "url": "https://scale.com/careers",
+    "type": "Startup"
+  },
+  {
+    "name": "Hugging Face",
+    "url": "https://huggingface.co/jobs",
+    "type": "Startup"
+  },
+  {
+    "name": "Weights & Biases",
+    "url": "https://wandb.ai/careers",
+    "type": "Startup"
+  },
+  {
+    "name": "Retool",
+    "url": "https://retool.com/careers",
+    "type": "Startup"
+  },
+  {
+    "name": "Anduril",
+    "url": "https://www.anduril.com/careers/",
+    "type": "Startup"
+  },
+  {
+    "name": "Accenture",
+    "url": "https://www.accenture.com/us-en/careers/jobsearch",
+    "type": "Consulting"
+  },
+  {
+    "name": "Deloitte",
+    "url": "https://www2.deloitte.com/us/en/careers/search-jobs.html",
+    "type": "Consulting"
+  },
+  {
+    "name": "PwC",
+    "url": "https://www.pwc.com/us/en/careers/campus/programs-events.html",
+    "type": "Consulting"
+  },
+  {
+    "name": "EY",
+    "url": "https://www.ey.com/en_us/careers",
+    "type": "Consulting"
+  },
+  {
+    "name": "KPMG",
+    "url": "https://www.kpmg.us/careers.html",
+    "type": "Consulting"
+  },
+  {
+    "name": "Cognizant",
+    "url": "https://careers.cognizant.com/us/en",
+    "type": "Consulting"
+  },
+  {
+    "name": "Infosys",
+    "url": "https://www.infosys.com/careers/",
+    "type": "Consulting"
+  },
+  {
+    "name": "TCS",
+    "url": "https://www.tcs.com/careers",
+    "type": "Consulting"
+  },
+  {
+    "name": "Wipro",
+    "url": "https://careers.wipro.com/",
+    "type": "Consulting"
+  },
+  {
+    "name": "HCL Technologies",
+    "url": "https://www.hcltech.com/careers",
+    "type": "Consulting"
+  },
+  {
+    "name": "MIT",
+    "url": "https://careers.mit.edu/jobs",
+    "type": "University"
+  },
+  {
+    "name": "Stanford University",
+    "url": "https://careersearch.stanford.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Harvard University",
+    "url": "https://hr.harvard.edu/jobs",
+    "type": "University"
+  },
+  {
+    "name": "UC Berkeley",
+    "url": "https://jobs.berkeley.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Carnegie Mellon",
+    "url": "https://www.cmu.edu/jobs/",
+    "type": "University"
+  },
+  {
+    "name": "Georgia Tech",
+    "url": "https://careers.gatech.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Michigan",
+    "url": "https://careers.umich.edu/",
+    "type": "University"
+  },
+  {
+    "name": "UT Austin",
+    "url": "https://utdirect.utexas.edu/apps/hr/jobs/",
+    "type": "University"
+  },
+  {
+    "name": "UIUC",
+    "url": "https://jobs.illinois.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Washington",
+    "url": "https://uwhires.admin.washington.edu/",
+    "type": "University"
+  },
+  {
+    "name": "UCLA",
+    "url": "https://careers.ucla.edu/",
+    "type": "University"
+  },
+  {
+    "name": "USC",
+    "url": "https://careers.usc.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Columbia University",
+    "url": "https://opportunities.columbia.edu/",
+    "type": "University"
+  },
+  {
+    "name": "NYU",
+    "url": "https://www.nyu.edu/employees/resources-and-services/careers-at-nyu.html",
+    "type": "University"
+  },
+  {
+    "name": "Princeton University",
+    "url": "https://jobs.princeton.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Yale University",
+    "url": "https://your.yale.edu/work-yale/find-job",
+    "type": "University"
+  },
+  {
+    "name": "Cornell University",
+    "url": "https://hr.cornell.edu/jobs",
+    "type": "University"
+  },
+  {
+    "name": "Duke University",
+    "url": "https://hr.duke.edu/careers/",
+    "type": "University"
+  },
+  {
+    "name": "Northwestern University",
+    "url": "https://www.northwestern.edu/hr/careers/",
+    "type": "University"
+  },
+  {
+    "name": "Johns Hopkins",
+    "url": "https://hiring.jhu.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Purdue University",
+    "url": "https://careers.purdue.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Ohio State University",
+    "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers?jobCategoryExtended=f7977be3b2e80101b5165c9bc3310003",
+    "type": "University"
+  },
+  {
+    "name": "University of Virginia",
+    "url": "https://jobs.virginia.edu/us/en/c/information-management-services-technology-jobs",
+    "type": "University"
+  },
+  {
+    "name": "University of Florida",
+    "url": "https://explore.jobs.ufl.edu/en-us/filter/?search-keyword=&work-type=staff%20full-time&category=computer%20science&job-mail-subscribe-privacy=agree",
+    "type": "University"
+  },
+  {
+    "name": "Penn State",
+    "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff",
+    "type": "University"
+  },
+  {
+    "name": "University of Wisconsin",
+    "url": "https://jobs.wisc.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Minnesota",
+    "url": "https://hr.umn.edu/jobs",
+    "type": "University"
+  },
+  {
+    "name": "University of Maryland",
+    "url": "https://ejobs.umd.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Virginia Tech",
+    "url": "https://careers.pageuppeople.com/968/cw/en-us/listing/",
+    "type": "University"
+  },
+  {
+    "name": "NC State",
+    "url": "https://jobs.ncsu.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Colorado",
+    "url": "https://cu.taleo.net/careersection/2/jobsearch.ftl",
+    "type": "University"
+  },
+  {
+    "name": "Arizona State University",
+    "url": "https://jobs.asu.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Arizona",
+    "url": "https://arizona.csod.com/ux/ats/careersite/4/home?c=arizona",
+    "type": "University"
+  },
+  {
+    "name": "Texas A&M",
+    "url": "https://tamus.wd1.myworkdayjobs.com/TAMU_External",
+    "type": "University"
+  },
+  {
+    "name": "University of North Carolina",
+    "url": "https://unc.peopleadmin.com/",
+    "type": "University"
+  },
+  {
+    "name": "Boston University",
+    "url": "https://www.bu.edu/hr/careers/",
+    "type": "University"
+  },
+  {
+    "name": "Northeastern University",
+    "url": "https://northeastern.wd1.myworkdayjobs.com/careers",
+    "type": "University"
+  },
+  {
+    "name": "University of Pittsburgh",
+    "url": "https://www.join.pitt.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Rutgers University",
+    "url": "https://jobs.rutgers.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Illinois Chicago",
+    "url": "https://uic.csod.com/ux/ats/careersite/1/home?c=uic",
+    "type": "University"
+  },
+  {
+    "name": "Indiana University",
+    "url": "https://hrms.indiana.edu/psp/PH1PRD_PUB/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL",
+    "type": "University"
+  },
+  {
+    "name": "University of Iowa",
+    "url": "https://jobs.uiowa.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Michigan State University",
+    "url": "https://careers.msu.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Oregon",
+    "url": "https://careers.uoregon.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Oregon State University",
+    "url": "https://jobs.oregonstate.edu/",
+    "type": "University"
+  },
+  {
+    "name": "University of Utah",
+    "url": "https://utah.peopleadmin.com/",
+    "type": "University"
+  },
+  {
+    "name": "Rice University",
+    "url": "https://jobs.rice.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Emory University",
+    "url": "https://staff-emory.icims.com/jobs/search",
+    "type": "University"
+  },
+  {
+    "name": "Vanderbilt University",
+    "url": "https://www.vanderbilt.edu/careers/",
+    "type": "University"
+  },
+  {
+    "name": "Washington University in St. Louis",
+    "url": "https://wustl.wd1.myworkdayjobs.com/External",
+    "type": "University"
+  },
+  {
+    "name": "University of Southern California",
+    "url": "https://usccareers.usc.edu/",
+    "type": "University"
+  },
+  {
+    "name": "Caltech",
+    "url": "https://www.caltech.edu/about/careers",
+    "type": "University"
+  },
+  {
+    "name": "Shopify",
+    "url": "https://www.shopify.com/careers",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "Etsy",
+    "url": "https://www.etsy.com/careers",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "Wayfair",
+    "url": "https://www.aboutwayfair.com/careers",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "eBay",
+    "url": "https://www.ebayinc.com/careers/",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "Walmart Labs",
+    "url": "https://careers.walmart.com/technology",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "Target Tech",
+    "url": "https://corporate.target.com/careers",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "Chewy",
+    "url": "https://www.chewy.com/jobs",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "Stitch Fix",
+    "url": "https://www.stitchfix.com/careers",
+    "type": "Ecommerce"
+  },
+  {
+    "name": "Snap",
+    "url": "https://www.snap.com/en-US/jobs",
+    "type": "Social"
+  },
+  {
+    "name": "Pinterest",
+    "url": "https://www.pinterestcareers.com/jobs/",
+    "type": "Social"
+  },
+  {
+    "name": "Reddit",
+    "url": "https://www.redditinc.com/careers",
+    "type": "Social"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://careers.linkedin.com/",
+    "type": "Social"
+  },
+  {
+    "name": "TikTok",
+    "url": "https://careers.tiktok.com/",
+    "type": "Social"
+  },
+  {
+    "name": "Twitch",
+    "url": "https://www.twitch.tv/jobs/en/",
+    "type": "Social"
+  },
+  {
+    "name": "Roblox",
+    "url": "https://corp.roblox.com/careers/",
+    "type": "Gaming"
+  },
+  {
+    "name": "Unity",
+    "url": "https://careers.unity.com/",
+    "type": "Gaming"
+  },
+  {
+    "name": "Epic Games",
+    "url": "https://www.epicgames.com/site/en-US/careers",
+    "type": "Gaming"
+  },
+  {
+    "name": "Riot Games",
+    "url": "https://www.riotgames.com/en/work-with-us",
+    "type": "Gaming"
+  },
+  {
+    "name": "EA",
+    "url": "https://www.ea.com/careers",
+    "type": "Gaming"
+  },
+  {
+    "name": "Valve",
+    "url": "https://www.valvesoftware.com/en/jobs",
+    "type": "Gaming"
+  },
+  {
+    "name": "Bungie",
+    "url": "https://careers.bungie.com/",
+    "type": "Gaming"
+  },
+  {
+    "name": "Zillow",
+    "url": "https://www.zillow.com/careers/",
+    "type": "PropTech"
+  },
+  {
+    "name": "Redfin",
+    "url": "https://www.redfin.com/about/jobs",
+    "type": "PropTech"
+  },
+  {
+    "name": "Opendoor",
+    "url": "https://www.opendoor.com/jobs",
+    "type": "PropTech"
+  },
+  {
+    "name": "Compass",
+    "url": "https://www.compass.com/careers/",
+    "type": "PropTech"
+  },
+  {
+    "name": "CoStar",
+    "url": "https://www.costargroup.com/careers",
+    "type": "PropTech"
+  },
+  {
+    "name": "Expedia",
+    "url": "https://lifeatexpediagroup.com/jobs",
+    "type": "Travel"
+  },
+  {
+    "name": "Booking.com",
+    "url": "https://jobs.booking.com/",
+    "type": "Travel"
+  },
+  {
+    "name": "TripAdvisor",
+    "url": "https://www.tripadvisor.com/careers",
+    "type": "Travel"
+  },
+  {
+    "name": "Gopuff",
+    "url": "https://www.gopuff.com/go/careers",
+    "type": "FoodTech"
+  },
+  {
+    "name": "Yelp",
+    "url": "https://www.yelp.careers/us/en",
+    "type": "FoodTech"
+  },
+  {
+    "name": "Waymo",
+    "url": "https://waymo.com/careers/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Nuro",
+    "url": "https://www.nuro.ai/careers",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Cruise",
+    "url": "https://getcruise.com/careers/",
+    "type": "Unicorn"
+  },
+  {
+    "name": "Zoox",
+    "url": "https://zoox.com/careers/",
+    "type": "Unicorn"
   }
-  
+]
